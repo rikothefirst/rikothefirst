@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikothefirst
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... jack shit because im a lazy bastard but would like to get around learning java
+- 🌱 I’m currently learning ... nothing but would like to get around learning java
 - 💞️ I’m looking to collaborate on ... nah
 - 📫 How to reach me ... find someone else
 
